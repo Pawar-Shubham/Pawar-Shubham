@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pawar-Shubham
 - 👀 I’m interested in python programming,cyber security, bug bounty, ethical hacking.
-- 🌱 I’m currently learning python, java, javascript.
+- 🌱 I’m currently learning python, C, C++, java, javascript.
 - 💞️ I’m looking to contribute on open source projects to upgrade my skills and knowledge.
 - 📫 You can ping me on @ pawar.shubham.live@gmail.com
 
